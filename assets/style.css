@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'PingFang-light';
+    font-weight: "light";
+    src: url('./fonts/PingFangSC/PingFangSC-Light.woff2')
+}
+
+@font-face {
+    font-family: 'PingFang';
+    font-weight: "normal";
+    src: url('./fonts/PingFangSC/PingFangSC-Medium.woff2')
+}
+
+@font-face {
+    font-family: 'PingFang-bold';
+    font-weight: "bold";
+    src: url('./fonts/PingFangSC/PingFangSC-Regular.woff2')
+}
+
+@font-face {
+    font-family: 'PingFang-bolder';
+    font-weight: "bolder";
+    src: url('./fonts/PingFangSC/PingFangSC-Semibold.woff2')
+}
+
+
+
+
+/* MiSans */
+@font-face {
+    font-family: 'MiSans-lighter';
+    font-weight: "lighter";
+    src: url("./fonts/MiSans/MiSans-Thin.woff2")
+}
+
+@font-face {
+    font-family: 'MiSans-light';
+    font-weight: "light";
+    src: url("./fonts/MiSans/MiSans-Light.woff2")
+}
+
+
+@font-face {
+    font-family: 'MiSans-normal';
+    font-weight: "normal";
+    src: url("./fonts/MiSans/MiSans-Normal.woff2")
+}
+
+@font-face {
+    font-family: 'MiSans-normal-bold';
+    font-weight: "bold";
+    src: url("./fonts/MiSans/MiSans-Bold.woff2")
+}
+
+@font-face {
+    font-family: 'MiSans-normal-bolder';
+    font-weight: "bolder";
+    src: url("./fonts/MiSans/MiSans-Semibold.woff2")
+}
+
+
+@font-face {
+    font-family: 'HanChanGaoHeiTi';
+    font-weight: "normal";
+    src: url("./fonts/HanChanGaoHeiTi-2.woff")
+}
+
+@font-face {
+    font-family: 'OPPOSans';
+    font-weight: "normal";
+    src: url("./fonts/OPPOSans-M-2.woff")
+}
+
+
+@font-face {
+    font-family: 'SourceHanSans-bold';
+    font-weight: "normal";
+    src: url("./fonts/SourceHanSansCN-Heavy.woff")
+}
+
+
+@font-face {
+    font-family: 'SourceHanSans';
+    font-weight: "normal";
+    src: url("./fonts/SourceHanSansCN-Normal.woff")
+}
+
+
+@font-face {
+    font-family: 'WenQuanDengKuanWeiMiHei';
+    font-weight: "normal";
+    src: url("./fonts/WenQuanDengKuanWeiMiHei-1.woff")
+}

@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'MiSans-lighter';
+    font-weight: "lighter";
+    src: url("./fonts/MiSans/MiSans-Thin.woff2")
+}
+
+@font-face {
+    font-family: 'MiSans-light';
+    font-weight: "light";
+    src: url("./fonts/MiSans/MiSans-Light.woff2")
+}
+
+
+@font-face {
+    font-family: 'MiSans-normal';
+    font-weight: "normal";
+    src: url("./fonts/MiSans/MiSans-Normal.woff2")
+}
+
+@font-face {
+    font-family: 'MiSans-normal-bold';
+    font-weight: "bold";
+    src: url("./fonts/MiSans/MiSans-Bold.woff2")
+}
+
+@font-face {
+    font-family: 'MiSans-normal-bolder';
+    font-weight: "bolder";
+    src: url("./fonts/MiSans/MiSans-Semibold.woff2")
+}
