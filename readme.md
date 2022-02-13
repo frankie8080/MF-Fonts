@@ -1,6 +1,6 @@
 # MF-Fonts
 
-[Documentation](https://fengtianxi001.github.io/MF-Icon/)
+[Documentation](https://frankie8080.github.io/MF-Fonts/)
 
 
 
